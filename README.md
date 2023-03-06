@@ -6,7 +6,9 @@ install deps
 bun i
 ```
 
-edit `solution.test.ts` and run test command below
+edit `solution.ts` to solve that problem kub! 
+
+to test edit `solution.test.ts` and run test command below
 
 ```bash
 bun test
